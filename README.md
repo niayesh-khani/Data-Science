@@ -9,9 +9,9 @@ This repository contains my coursework for the Data Science course, including as
 📌 **Reports** – Summaries and findings from data analyses  
 
 ## **Topics Covered**  
-- Data preprocessing & cleaning 🧹  
-- Exploratory Data Analysis (EDA) 📊  
-- Machine learning models 🤖  
-- Data visualization 📉  
-- Statistical analysis 📈  
-- Deep learning basics 🌟 
+- Data preprocessing & cleaning
+- Exploratory Data Analysis (EDA)  
+- Machine learning models
+- Data visualization 
+- Statistical analysis  
+- Deep learning basics 
